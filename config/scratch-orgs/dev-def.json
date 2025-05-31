@@ -1,6 +1,9 @@
 {
-  "orgName": "alberto.mata company",
+  "orgName": "dev",
   "edition": "Developer",
+  "username": "alberto.mata@scratch-protonmail.com.dev",
+  "adminEmail": "alberto.mata@protonmail.com",
+  "description": "Scratch org for development purposes",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
     "lightningExperienceSettings": {
