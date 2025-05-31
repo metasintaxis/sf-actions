@@ -4,5 +4,6 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "window.title": "${rootName}"
+  "window.title": "${rootName}",
+  "salesforcedx-vscode-core.show-cli-success-msg": false
 }
